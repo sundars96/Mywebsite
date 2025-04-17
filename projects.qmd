@@ -1,0 +1,59 @@
+---
+title: "Projects"
+page-layout: article
+---
+
+# 🧠 Highlight Projects
+
+A collection of real-world challenges I’ve tackled — using data, strategy, and creative problem-solving. Each one taught me something new and helped me connect dots across business, tech, and analytics.
+
+---
+
+## 📊 Salary Forecasting Using Python & Power BI
+
+**Goal:** Predict salaries based on job title, education level, and location.  
+**Stack:** Python (Pandas, Sklearn), SQL, Power BI  
+**What I Did:**  
+- Cleaned & engineered variables from raw survey data  
+- Built regression model with 85% R² accuracy  
+- Visualized role-based salary distribution and geographic variance  
+**Impact:** Enabled compensation benchmarking for HR use cases  
+🎯 *Turned raw CSV into insight-packed dashboards + ML predictions*
+
+---
+
+## 🧪 Flint Water Crisis – Project Decision Framework
+
+**Approach:** SWOT + PESTEL analysis to dissect one of the most talked-about policy failures  
+**What I Did:**  
+- Mapped stakeholder failures and blind spots  
+- Evaluated long-term risks and root causes using decision science  
+- Designed 3-phase recovery plan using project management strategies  
+**Impact:** Academic + practical framework for evaluating infrastructure breakdowns
+
+---
+
+## 🚗 Parking Lot App – Stakeholder Influence Mapping
+
+**Objective:** Shift stakeholder attitudes to support app adoption  
+**What I Did:**  
+- Categorized stakeholders from “Unaware” to “Cheerleaders”  
+- Created an influence–interest matrix  
+- Aligned communication strategy to sentiment shifts  
+**Outcome:** Simulated user journey + engagement strategy using change management tools
+
+---
+
+## 🌍 GTM Strategy – Light The World (Sustainable Solar Startup)
+
+**Goal:** Develop market entry strategy for low-cost solar kits in rural Africa  
+**Stack:** Excel, Market Research, Python (for NPV simulation)  
+**What I Did:**  
+- Segmented customers and modeled CAC/LTV  
+- Crafted pricing and channel strategy  
+- Built an NPV model for 3-year projection  
+**Result:** Strategy was shortlisted in a global social impact accelerator 💡
+
+---
+
+Let me know if you'd like these as downloadable PDFs or GitHub links added later.

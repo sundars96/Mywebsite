@@ -1,0 +1,24 @@
+---
+title: "Tools & Skills"
+page-layout: article
+---
+
+# 🧰 Toolbox of a Data-Driven Strategist
+
+I’ve worked across tech stacks, business ops, and data pipelines — and here are the tools I trust to get the job done.
+
+---
+
+## 📊 Analytics & Data Tools
+
+- **Python** 🐍 — for data wrangling, modeling & automation (pandas, scikit-learn, matplotlib)  
+- **SQL** 🧮 — for querying and manipulating structured data across complex schemas  
+- **Power BI** 📊 — for dashboard design, KPI tracking, and visual storytelling  
+- **Tableau** 📈 — for intuitive data exploration and presentation  
+- **PySpark** ⚡ — for handling big data on distributed systems  
+
+---
+
+## 👨‍💻 Productivity & Development Tools
+
+- **Excel + VBA** — OG combo for quick forecasting, reporting & macros  

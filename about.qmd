@@ -1,0 +1,43 @@
+---
+title: "About Me"
+page-layout: article
+---
+![Sundarajan's Profile Pic](assets/IMG_4788.jpg){width=200px style="border-radius: 50%; box-shadow: 0px 0px 10px #f08de3;"}
+
+# 👋 Hey there, I’m Sundarajan!
+
+🚀 A curious mind with a business hustle and a data muscle.
+
+I started my career steering multimillion-dollar growth in India’s booming edtech sector — leading 140+ rockstars, closing deals, and optimizing operations like a boss. 📈 But I didn’t stop there.
+
+Now, I’m in Boston 🐾 chasing my next big adventure — diving deep into data, analytics, and decision science through my **MS in Applied Business Analytics** at Boston University. I’m on a mission to **turn raw data into business gold** — be it through dashboards, Python models, or stakeholder strategies.
+
+---
+
+## 🧩 I’m That Rare Blend of…
+
+- 🎯 Strategic Thinker → Ex-AGM @ BYJU’s, owned P&L and market expansion  
+- 💻 Tech Explorer → Python, SQL, Power BI, Tableau, PySpark  
+- 🧠 Academic Hustler → Dual master’s journey, research in AI, lifelong learner  
+- 🤝 People Leader → Built, mentored, and led cross-functional teams across regions  
+- 🧪 Decision Scientist → Passionate about solving fuzzy problems with sharp logic  
+
+---
+
+## 🎯 What Drives Me?
+
+I’m obsessed with creating *systems that scale* — whether it’s a GTM playbook for a solar startup or a predictive salary model. I believe in blending storytelling + data + design to drive change.
+
+My goals?
+- Help businesses **see clearly**, act faster, and grow smarter  
+- Work with global teams that value **clarity, creativity, and courage**  
+- Keep learning, keep building, and keep drinking good coffee ☕
+
+---
+
+## 💬 Let’s Connect!
+
+If you’re into transforming ideas into impact — whether through dashboards, growth hacks, or deep strategy dives — let’s chat!
+
+Or if you just want filter coffee recos in Boston... I’ve got those too ☕😉
+

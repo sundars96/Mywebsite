@@ -1,0 +1,44 @@
+---
+title: "CV"
+page-layout: article
+---
+
+# 📄 My Curriculum Vitae
+
+With over 7 years of business development and leadership experience — and a data-first mindset — I bring a unique ability to connect market strategy with analytics-driven execution.
+
+---
+
+## 🔍 Summary
+
+- 🎓 **Education**  
+  - M.S. in Applied Business Analytics — Boston University (Ongoing)  
+  - B.E. in Computer Science — Saranathan College of Engineering, India
+
+- 🧠 **Certifications**  
+  - Certified Scrum Master (CSM)  
+  - SQL for Data Science, Power BI Essentials
+
+- 💼 **Professional Experience**  
+  - **Assistant General Manager – BYJU’s**  
+    - Led 140-member regional sales org, driving $4M+ YoY revenue  
+    - Implemented CRM strategies and forecasting models  
+  - **Business Development Manager**  
+    - Headed cross-functional growth across 3 regions  
+    - Managed P&L ownership, onboarding, and KPI tracking
+
+- 🔬 **Research Assistant @ BU**  
+  - Working on AI-based predictive analytics in healthcare  
+  - Experience with PySpark, Jupyter, and cloud data processing
+
+---
+
+## 📥 Download My Resume
+
+Click below to get the full resume (PDF):
+
+👉 [**Download Resume**](assets/Resume.pdf){.btn .btn-primary target=\"_blank\"}
+
+---
+
+> *Want a deeper dive into my experience? Let’s connect on [LinkedIn](https://www.linkedin.com/in/sundarajan)!*

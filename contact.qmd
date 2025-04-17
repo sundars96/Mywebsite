@@ -1,0 +1,43 @@
+---
+title: "Contact"
+page-layout: article
+---
+
+# 🤝 Let’s Connect
+
+Whether it’s for a collaboration, a new opportunity, or just a good ol’ data chat — I’m always open to connecting with like-minded people.
+
+---
+
+## 📧 Email Me
+
+📩 **sundar96@bu.edu**  
+
+
+---
+
+## 🔗 Connect on LinkedIn
+
+[**linkedin.com/in/sundarajans**](https://linkedin.com/in/sundarajans)  
+*(Let’s network where the professionals hang out)*
+
+
+---
+
+## 🌍 Current Location
+
+📍 Boston, Massachusetts  
+🛫 Open to remote, hybrid, and on-site roles globally
+
+---
+
+## ☕ Or Just Say Hi
+
+If you’ve got a cool idea, startup plan, or just want to exchange book recos over coffee — hit me up.
+
+```yaml
+# Optional contact form in future:
+# - Name
+# - Email
+# - Message
+# (Handled via static forms or third-party service)
