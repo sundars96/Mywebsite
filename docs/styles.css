@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+/* 🧨 Fix the centered layout caused by Quarto’s inner container */
+.page-columns {
+  max-width: none !important;
+  width: 100% !important;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin: 0 auto !important;
+}
+
+/* 💡 Tweak inner content too */
+#quarto-content {
+  text-align: left !important;
+}
+
+/* 💪 Force all text left-aligned */
+body, h1, h2, h3, h4, h5, p, ul, ol {
+  text-align: left !important;
+}
+
+/* 🧼 Optional: fix code blocks or tables if needed */
+pre, code, table {
+  text-align: left;
+}
+
+/* ✅ Mobile responsiveness */
+@media (max-width: 768px) {
+  .page-columns {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
