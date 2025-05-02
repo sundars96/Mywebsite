@@ -20,6 +20,8 @@ A collection of real-world challenges I’ve tackled — using data, strategy, a
 **Impact:** Enabled compensation benchmarking for HR use cases  
 🎯 *Turned raw CSV into insight-packed dashboards + ML predictions*
 
+![Salary Forecast Dashboard](assets/1.png){width=100% style="border-radius: 8px; margin-top: 12px;"}
+
 ---
 
 ## 🧪 Flint Water Crisis – Project Decision Framework
@@ -30,6 +32,8 @@ A collection of real-world challenges I’ve tackled — using data, strategy, a
 - Evaluated long-term risks and root causes using decision science  
 - Designed 3-phase recovery plan using project management strategies  
 **Impact:** Academic + practical framework for evaluating infrastructure breakdowns
+
+![Flint Water Crisis](assets/2.png){width=100% style="border-radius: 8px; margin-top: 12px;"}
 
 ---
 
@@ -54,6 +58,27 @@ A collection of real-world challenges I’ve tackled — using data, strategy, a
 - Built an NPV model for 3-year projection  
 **Result:** Strategy was shortlisted in a global social impact accelerator 💡
 
+![Sustainable Solar Project](assets/3.png){width=100% style="border-radius: 8px; margin-top: 12px;"}
+
 ---
 
-Let me know if you'd like these as downloadable PDFs or GitHub links added later.
+---
+
+## 🏠 New York Real Estate – Predictive, Prescriptive & Descriptive Analysis
+
+**Goal:** Analyze and forecast real estate trends across boroughs in NYC  
+**Approach:** Combined exploratory data analysis (descriptive), regression modeling (predictive), and price-based optimization (prescriptive)  
+**Stack:** Python, Pandas, Matplotlib, Scikit-learn, Solver
+
+**What I Did:**  
+- Conducted trend analysis on historical housing prices  
+- Built a linear regression model to forecast property values by zip code  
+- Used Solver in Excel to prescribe optimal pricing zones for buyers and investors  
+- Visualized borough-wise differences using interactive plots and dashboards  
+
+**Impact:** Helped simulate pricing behavior under different policy or economic assumptions, valuable for urban planners and investors
+
+📈 *Blended the full power of analytics: past, present, and future.*
+
+![NYC Housing Chinatown](assets/4.png){width=100% style="border-radius: 8px; margin-top: 12px;"}
+

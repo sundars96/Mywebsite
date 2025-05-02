@@ -1,38 +1,87 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mywebsite",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html#im-that-rare-blend-of",
+    "href": "index.html#im-that-rare-blend-of",
     "title": "About Me",
-    "section": "",
-    "text": "Sundarajan’s Profile Pic"
+    "section": "🧩 I’m That Rare Blend of…",
+    "text": "🧩 I’m That Rare Blend of…\n\n🎯 Strategic Thinker → Ex-AGM @ BYJU’s, owned P&L and market expansion\n\n💻 Tech Explorer → Python, SQL, Power BI, Tableau, PySpark\n\n🧠 Academic Hustler → Dual master’s journey, research in AI, lifelong learner\n\n🤝 People Leader → Built, mentored, and led cross-functional teams across regions\n\n🧪 Decision Scientist → Passionate about solving fuzzy problems with sharp logic"
   },
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Tools & Skills",
-    "section": "",
-    "text": "I’ve worked across tech stacks, business ops, and data pipelines — and here are the tools I trust to get the job done.\n\n\n\n\nPython 🐍 — for data wrangling, modeling & automation (pandas, scikit-learn, matplotlib)\n\nSQL 🧮 — for querying and manipulating structured data across complex schemas\n\nPower BI 📊 — for dashboard design, KPI tracking, and visual storytelling\n\nTableau 📈 — for intuitive data exploration and presentation\n\nPySpark ⚡ — for handling big data on distributed systems\n\n\n\n\n\n\nExcel + VBA — OG combo for quick forecasting, reporting & macros"
+    "objectID": "index.html#what-drives-me",
+    "href": "index.html#what-drives-me",
+    "title": "About Me",
+    "section": "🎯 What Drives Me?",
+    "text": "🎯 What Drives Me?\nI’m obsessed with creating systems that scale — whether it’s a GTM playbook for a solar startup or a predictive salary model. I believe in blending storytelling + data + design to drive change.\nMy goals? - Help businesses see clearly, act faster, and grow smarter\n- Work with global teams that value clarity, creativity, and courage\n- Keep learning, keep building, and keep drinking good coffee ☕"
   },
   {
-    "objectID": "tools.html#analytics-data-tools",
-    "href": "tools.html#analytics-data-tools",
-    "title": "Tools & Skills",
-    "section": "",
-    "text": "Python 🐍 — for data wrangling, modeling & automation (pandas, scikit-learn, matplotlib)\n\nSQL 🧮 — for querying and manipulating structured data across complex schemas\n\nPower BI 📊 — for dashboard design, KPI tracking, and visual storytelling\n\nTableau 📈 — for intuitive data exploration and presentation\n\nPySpark ⚡ — for handling big data on distributed systems"
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "About Me",
+    "section": "💬 Let’s Connect!",
+    "text": "💬 Let’s Connect!\nIf you’re into transforming ideas into impact — whether through dashboards, growth hacks, or deep strategy dives — let’s chat!\nOr if you just want filter coffee recos in Boston… I’ve got those too ☕😉"
   },
   {
-    "objectID": "tools.html#productivity-development-tools",
-    "href": "tools.html#productivity-development-tools",
-    "title": "Tools & Skills",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Excel + VBA — OG combo for quick forecasting, reporting & macros"
+    "text": "With over 7 years of business development and leadership experience — and a data-first mindset — I bring a unique ability to connect market strategy with analytics-driven execution.\n\n\n\n\n🎓 Education\n\nM.S. in Applied Business Analytics — Boston University (Ongoing)\n\nB.E. in Computer Science — Saranathan College of Engineering, India\n\n🧠 Certifications\n\nCertified Scrum Master (CSM)\n\nSQL for Data Science, Power BI Essentials\n\n💼 Professional Experience\n\nAssistant General Manager – BYJU’s\n\nLed 140-member regional sales org, driving $4M+ YoY revenue\n\nImplemented CRM strategies and forecasting models\n\n\nBusiness Development Manager\n\nHeaded cross-functional growth across 3 regions\n\nManaged P&L ownership, onboarding, and KPI tracking\n\n\n🔬 Research Assistant @ BU\n\nWorking on AI-based predictive analytics in healthcare\n\nExperience with PySpark, Jupyter, and cloud data processing\n\n\n\n\n\n\nClick below to get the full resume (PDF):\n👉 Download Resume\n\n\nWant a deeper dive into my experience? Let’s connect on LinkedIn!"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "CV",
+    "section": "",
+    "text": "🎓 Education\n\nM.S. in Applied Business Analytics — Boston University (Ongoing)\n\nB.E. in Computer Science — Saranathan College of Engineering, India\n\n🧠 Certifications\n\nCertified Scrum Master (CSM)\n\nSQL for Data Science, Power BI Essentials\n\n💼 Professional Experience\n\nAssistant General Manager – BYJU’s\n\nLed 140-member regional sales org, driving $4M+ YoY revenue\n\nImplemented CRM strategies and forecasting models\n\n\nBusiness Development Manager\n\nHeaded cross-functional growth across 3 regions\n\nManaged P&L ownership, onboarding, and KPI tracking\n\n\n🔬 Research Assistant @ BU\n\nWorking on AI-based predictive analytics in healthcare\n\nExperience with PySpark, Jupyter, and cloud data processing"
+  },
+  {
+    "objectID": "cv.html#download-my-resume",
+    "href": "cv.html#download-my-resume",
+    "title": "CV",
+    "section": "",
+    "text": "Click below to get the full resume (PDF):\n👉 Download Resume\n\n\nWant a deeper dive into my experience? Let’s connect on LinkedIn!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A collection of real-world challenges I’ve tackled — using data, strategy, and creative problem-solving. Each one taught me something new and helped me connect dots across business, tech, and analytics.\n\n\n\nGoal: Predict salaries based on job title, education level, and location.\nStack: Python (Pandas, Sklearn), SQL, Power BI\nWhat I Did:\n- Cleaned & engineered variables from raw survey data\n- Built regression model with 85% R² accuracy\n- Visualized role-based salary distribution and geographic variance\nImpact: Enabled compensation benchmarking for HR use cases\n🎯 Turned raw CSV into insight-packed dashboards + ML predictions\n\n\n\nSalary Forecast Dashboard\n\n\n\n\n\n\nApproach: SWOT + PESTEL analysis to dissect one of the most talked-about policy failures\nWhat I Did:\n- Mapped stakeholder failures and blind spots\n- Evaluated long-term risks and root causes using decision science\n- Designed 3-phase recovery plan using project management strategies\nImpact: Academic + practical framework for evaluating infrastructure breakdowns\n\n\n\nFlint Water Crisis\n\n\n\n\n\n\nObjective: Shift stakeholder attitudes to support app adoption\nWhat I Did:\n- Categorized stakeholders from “Unaware” to “Cheerleaders”\n- Created an influence–interest matrix\n- Aligned communication strategy to sentiment shifts\nOutcome: Simulated user journey + engagement strategy using change management tools\n\n\n\n\nGoal: Develop market entry strategy for low-cost solar kits in rural Africa\nStack: Excel, Market Research, Python (for NPV simulation)\nWhat I Did:\n- Segmented customers and modeled CAC/LTV\n- Crafted pricing and channel strategy\n- Built an NPV model for 3-year projection\nResult: Strategy was shortlisted in a global social impact accelerator 💡\n\n\n\nSustainable Solar Project\n\n\n\n\n\n\n\nGoal: Analyze and forecast real estate trends across boroughs in NYC\nApproach: Combined exploratory data analysis (descriptive), regression modeling (predictive), and price-based optimization (prescriptive)\nStack: Python, Pandas, Matplotlib, Scikit-learn, Solver\nWhat I Did:\n- Conducted trend analysis on historical housing prices\n- Built a linear regression model to forecast property values by zip code\n- Used Solver in Excel to prescribe optimal pricing zones for buyers and investors\n- Visualized borough-wise differences using interactive plots and dashboards\nImpact: Helped simulate pricing behavior under different policy or economic assumptions, valuable for urban planners and investors\n📈 Blended the full power of analytics: past, present, and future.\n\n\n\nNYC Housing Chinatown"
+  },
+  {
+    "objectID": "projects.html#salary-forecasting-using-python-power-bi",
+    "href": "projects.html#salary-forecasting-using-python-power-bi",
+    "title": "Projects",
+    "section": "",
+    "text": "Goal: Predict salaries based on job title, education level, and location.\nStack: Python (Pandas, Sklearn), SQL, Power BI\nWhat I Did:\n- Cleaned & engineered variables from raw survey data\n- Built regression model with 85% R² accuracy\n- Visualized role-based salary distribution and geographic variance\nImpact: Enabled compensation benchmarking for HR use cases\n🎯 Turned raw CSV into insight-packed dashboards + ML predictions\n\n\n\nSalary Forecast Dashboard"
+  },
+  {
+    "objectID": "projects.html#flint-water-crisis-project-decision-framework",
+    "href": "projects.html#flint-water-crisis-project-decision-framework",
+    "title": "Projects",
+    "section": "",
+    "text": "Approach: SWOT + PESTEL analysis to dissect one of the most talked-about policy failures\nWhat I Did:\n- Mapped stakeholder failures and blind spots\n- Evaluated long-term risks and root causes using decision science\n- Designed 3-phase recovery plan using project management strategies\nImpact: Academic + practical framework for evaluating infrastructure breakdowns\n\n\n\nFlint Water Crisis"
+  },
+  {
+    "objectID": "projects.html#parking-lot-app-stakeholder-influence-mapping",
+    "href": "projects.html#parking-lot-app-stakeholder-influence-mapping",
+    "title": "Projects",
+    "section": "",
+    "text": "Objective: Shift stakeholder attitudes to support app adoption\nWhat I Did:\n- Categorized stakeholders from “Unaware” to “Cheerleaders”\n- Created an influence–interest matrix\n- Aligned communication strategy to sentiment shifts\nOutcome: Simulated user journey + engagement strategy using change management tools"
+  },
+  {
+    "objectID": "projects.html#gtm-strategy-light-the-world-sustainable-solar-startup",
+    "href": "projects.html#gtm-strategy-light-the-world-sustainable-solar-startup",
+    "title": "Projects",
+    "section": "",
+    "text": "Goal: Develop market entry strategy for low-cost solar kits in rural Africa\nStack: Excel, Market Research, Python (for NPV simulation)\nWhat I Did:\n- Segmented customers and modeled CAC/LTV\n- Crafted pricing and channel strategy\n- Built an NPV model for 3-year projection\nResult: Strategy was shortlisted in a global social impact accelerator 💡\n\n\n\nSustainable Solar Project"
+  },
+  {
+    "objectID": "projects.html#new-york-real-estate-predictive-prescriptive-descriptive-analysis",
+    "href": "projects.html#new-york-real-estate-predictive-prescriptive-descriptive-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Goal: Analyze and forecast real estate trends across boroughs in NYC\nApproach: Combined exploratory data analysis (descriptive), regression modeling (predictive), and price-based optimization (prescriptive)\nStack: Python, Pandas, Matplotlib, Scikit-learn, Solver\nWhat I Did:\n- Conducted trend analysis on historical housing prices\n- Built a linear regression model to forecast property values by zip code\n- Used Solver in Excel to prescribe optimal pricing zones for buyers and investors\n- Visualized borough-wise differences using interactive plots and dashboards\nImpact: Helped simulate pricing behavior under different policy or economic assumptions, valuable for urban planners and investors\n📈 Blended the full power of analytics: past, present, and future.\n\n\n\nNYC Housing Chinatown"
   },
   {
     "objectID": "contact.html",
@@ -70,80 +119,24 @@
     "text": "If you’ve got a cool idea, startup plan, or just want to exchange book recos over coffee — hit me up.\n```yaml # Optional contact form in future: # - Name # - Email # - Message # (Handled via static forms or third-party service)"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools & Skills",
     "section": "",
-    "text": "A collection of real-world challenges I’ve tackled — using data, strategy, and creative problem-solving. Each one taught me something new and helped me connect dots across business, tech, and analytics.\n\n\n\nGoal: Predict salaries based on job title, education level, and location.\nStack: Python (Pandas, Sklearn), SQL, Power BI\nWhat I Did:\n- Cleaned & engineered variables from raw survey data\n- Built regression model with 85% R² accuracy\n- Visualized role-based salary distribution and geographic variance\nImpact: Enabled compensation benchmarking for HR use cases\n🎯 Turned raw CSV into insight-packed dashboards + ML predictions\n\n\n\n\nApproach: SWOT + PESTEL analysis to dissect one of the most talked-about policy failures\nWhat I Did:\n- Mapped stakeholder failures and blind spots\n- Evaluated long-term risks and root causes using decision science\n- Designed 3-phase recovery plan using project management strategies\nImpact: Academic + practical framework for evaluating infrastructure breakdowns\n\n\n\n\nObjective: Shift stakeholder attitudes to support app adoption\nWhat I Did:\n- Categorized stakeholders from “Unaware” to “Cheerleaders”\n- Created an influence–interest matrix\n- Aligned communication strategy to sentiment shifts\nOutcome: Simulated user journey + engagement strategy using change management tools\n\n\n\n\nGoal: Develop market entry strategy for low-cost solar kits in rural Africa\nStack: Excel, Market Research, Python (for NPV simulation)\nWhat I Did:\n- Segmented customers and modeled CAC/LTV\n- Crafted pricing and channel strategy\n- Built an NPV model for 3-year projection\nResult: Strategy was shortlisted in a global social impact accelerator 💡\n\nLet me know if you’d like these as downloadable PDFs or GitHub links added later."
+    "text": "I’ve worked across tech stacks, business ops, and data pipelines — and here are the tools I trust to get the job done.\n\n\n\n\nPython 🐍 — for data wrangling, modeling & automation (pandas, scikit-learn, matplotlib)\n\nSQL 🧮 — for querying and manipulating structured data across complex schemas\n\nPower BI 📊 — for dashboard design, KPI tracking, and visual storytelling\n\nTableau 📈 — for intuitive data exploration and presentation\n\nPySpark ⚡ — for handling big data on distributed systems\n\n\n\n\n\n\nExcel + VBA — OG combo for quick forecasting, reporting & macros"
   },
   {
-    "objectID": "projects.html#salary-forecasting-using-python-power-bi",
-    "href": "projects.html#salary-forecasting-using-python-power-bi",
-    "title": "Projects",
+    "objectID": "tools.html#analytics-data-tools",
+    "href": "tools.html#analytics-data-tools",
+    "title": "Tools & Skills",
     "section": "",
-    "text": "Goal: Predict salaries based on job title, education level, and location.\nStack: Python (Pandas, Sklearn), SQL, Power BI\nWhat I Did:\n- Cleaned & engineered variables from raw survey data\n- Built regression model with 85% R² accuracy\n- Visualized role-based salary distribution and geographic variance\nImpact: Enabled compensation benchmarking for HR use cases\n🎯 Turned raw CSV into insight-packed dashboards + ML predictions"
+    "text": "Python 🐍 — for data wrangling, modeling & automation (pandas, scikit-learn, matplotlib)\n\nSQL 🧮 — for querying and manipulating structured data across complex schemas\n\nPower BI 📊 — for dashboard design, KPI tracking, and visual storytelling\n\nTableau 📈 — for intuitive data exploration and presentation\n\nPySpark ⚡ — for handling big data on distributed systems"
   },
   {
-    "objectID": "projects.html#flint-water-crisis-project-decision-framework",
-    "href": "projects.html#flint-water-crisis-project-decision-framework",
-    "title": "Projects",
+    "objectID": "tools.html#productivity-development-tools",
+    "href": "tools.html#productivity-development-tools",
+    "title": "Tools & Skills",
     "section": "",
-    "text": "Approach: SWOT + PESTEL analysis to dissect one of the most talked-about policy failures\nWhat I Did:\n- Mapped stakeholder failures and blind spots\n- Evaluated long-term risks and root causes using decision science\n- Designed 3-phase recovery plan using project management strategies\nImpact: Academic + practical framework for evaluating infrastructure breakdowns"
-  },
-  {
-    "objectID": "projects.html#parking-lot-app-stakeholder-influence-mapping",
-    "href": "projects.html#parking-lot-app-stakeholder-influence-mapping",
-    "title": "Projects",
-    "section": "",
-    "text": "Objective: Shift stakeholder attitudes to support app adoption\nWhat I Did:\n- Categorized stakeholders from “Unaware” to “Cheerleaders”\n- Created an influence–interest matrix\n- Aligned communication strategy to sentiment shifts\nOutcome: Simulated user journey + engagement strategy using change management tools"
-  },
-  {
-    "objectID": "projects.html#gtm-strategy-light-the-world-sustainable-solar-startup",
-    "href": "projects.html#gtm-strategy-light-the-world-sustainable-solar-startup",
-    "title": "Projects",
-    "section": "",
-    "text": "Goal: Develop market entry strategy for low-cost solar kits in rural Africa\nStack: Excel, Market Research, Python (for NPV simulation)\nWhat I Did:\n- Segmented customers and modeled CAC/LTV\n- Crafted pricing and channel strategy\n- Built an NPV model for 3-year projection\nResult: Strategy was shortlisted in a global social impact accelerator 💡\n\nLet me know if you’d like these as downloadable PDFs or GitHub links added later."
-  },
-  {
-    "objectID": "about.html#im-that-rare-blend-of",
-    "href": "about.html#im-that-rare-blend-of",
-    "title": "About Me",
-    "section": "🧩 I’m That Rare Blend of…",
-    "text": "🧩 I’m That Rare Blend of…\n\n🎯 Strategic Thinker → Ex-AGM @ BYJU’s, owned P&L and market expansion\n\n💻 Tech Explorer → Python, SQL, Power BI, Tableau, PySpark\n\n🧠 Academic Hustler → Dual master’s journey, research in AI, lifelong learner\n\n🤝 People Leader → Built, mentored, and led cross-functional teams across regions\n\n🧪 Decision Scientist → Passionate about solving fuzzy problems with sharp logic"
-  },
-  {
-    "objectID": "about.html#what-drives-me",
-    "href": "about.html#what-drives-me",
-    "title": "About Me",
-    "section": "🎯 What Drives Me?",
-    "text": "🎯 What Drives Me?\nI’m obsessed with creating systems that scale — whether it’s a GTM playbook for a solar startup or a predictive salary model. I believe in blending storytelling + data + design to drive change.\nMy goals? - Help businesses see clearly, act faster, and grow smarter\n- Work with global teams that value clarity, creativity, and courage\n- Keep learning, keep building, and keep drinking good coffee ☕"
-  },
-  {
-    "objectID": "about.html#lets-connect",
-    "href": "about.html#lets-connect",
-    "title": "About Me",
-    "section": "💬 Let’s Connect!",
-    "text": "💬 Let’s Connect!\nIf you’re into transforming ideas into impact — whether through dashboards, growth hacks, or deep strategy dives — let’s chat!\nOr if you just want filter coffee recos in Boston… I’ve got those too ☕😉"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "With over 7 years of business development and leadership experience — and a data-first mindset — I bring a unique ability to connect market strategy with analytics-driven execution.\n\n\n\n\n🎓 Education\n\nM.S. in Applied Business Analytics — Boston University (Ongoing)\n\nB.E. in Computer Science — Saranathan College of Engineering, India\n\n🧠 Certifications\n\nCertified Scrum Master (CSM)\n\nSQL for Data Science, Power BI Essentials\n\n💼 Professional Experience\n\nAssistant General Manager – BYJU’s\n\nLed 140-member regional sales org, driving $4M+ YoY revenue\n\nImplemented CRM strategies and forecasting models\n\n\nBusiness Development Manager\n\nHeaded cross-functional growth across 3 regions\n\nManaged P&L ownership, onboarding, and KPI tracking\n\n\n🔬 Research Assistant @ BU\n\nWorking on AI-based predictive analytics in healthcare\n\nExperience with PySpark, Jupyter, and cloud data processing\n\n\n\n\n\n\nClick below to get the full resume (PDF):\n👉 Download Resume\n\n\nWant a deeper dive into my experience? Let’s connect on LinkedIn!"
-  },
-  {
-    "objectID": "cv.html#summary",
-    "href": "cv.html#summary",
-    "title": "CV",
-    "section": "",
-    "text": "🎓 Education\n\nM.S. in Applied Business Analytics — Boston University (Ongoing)\n\nB.E. in Computer Science — Saranathan College of Engineering, India\n\n🧠 Certifications\n\nCertified Scrum Master (CSM)\n\nSQL for Data Science, Power BI Essentials\n\n💼 Professional Experience\n\nAssistant General Manager – BYJU’s\n\nLed 140-member regional sales org, driving $4M+ YoY revenue\n\nImplemented CRM strategies and forecasting models\n\n\nBusiness Development Manager\n\nHeaded cross-functional growth across 3 regions\n\nManaged P&L ownership, onboarding, and KPI tracking\n\n\n🔬 Research Assistant @ BU\n\nWorking on AI-based predictive analytics in healthcare\n\nExperience with PySpark, Jupyter, and cloud data processing"
-  },
-  {
-    "objectID": "cv.html#download-my-resume",
-    "href": "cv.html#download-my-resume",
-    "title": "CV",
-    "section": "",
-    "text": "Click below to get the full resume (PDF):\n👉 Download Resume\n\n\nWant a deeper dive into my experience? Let’s connect on LinkedIn!"
+    "text": "Excel + VBA — OG combo for quick forecasting, reporting & macros"
   }
 ]
